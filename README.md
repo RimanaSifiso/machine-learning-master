@@ -1,4 +1,4 @@
-# Modern Machine Learning & Computer Vision Curriculum
+# Machine Learning & Computer Vision Curriculum (Self-made)
 
 A curated, structured collection of graduate-level **machine learning, deep learning, and computer vision** courses — drawn from world-class university lectures and open educational resources.  
 This repository is organized into **phases** and **course folders**, each containing materials, summaries, and notes.
