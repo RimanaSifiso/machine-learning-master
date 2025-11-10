@@ -117,7 +117,7 @@ Each course included here is publicly available, taught by leading researchers i
 
 ---
 
-## 🧩 Program Structure
+## Program Structure
 
 ### **PHASE I – Core Foundations**
 
@@ -140,7 +140,7 @@ Each course included here is publicly available, taught by leading researchers i
 
 ---
 
-## ⚙️ Technologies & Frameworks
+## Technologies & Frameworks
 
 - **PyTorch** – Core framework for deep learning and experimentation
 - **fastai** – High-level API for practical deep learning workflows
@@ -149,7 +149,7 @@ Each course included here is publicly available, taught by leading researchers i
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Develop a **deep understanding of machine learning theory** - from probabilistic foundations to numerical optimization.
 - Gain **hands-on fluency** with modern ML frameworks (PyTorch & JAX).
@@ -158,7 +158,7 @@ Each course included here is publicly available, taught by leading researchers i
 
 ---
 
-## 🏛️ Institutions Represented
+## Institutions Represented
 
 | University / Organization  | Lecturer(s)                                                | Courses      |
 | -------------------------- | ---------------------------------------------------------- | ------------ |
@@ -169,7 +169,7 @@ Each course included here is publicly available, taught by leading researchers i
 
 ---
 
-## 🧠 Notes
+## Notes
 
 All course materials are **publicly available educational resources**.  
 This repository contains personal summaries, notes, and study artifacts - **no redistribution of copyrighted materials**.
